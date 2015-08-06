@@ -1,0 +1,38 @@
+.brand-forms {
+  h1, h2 {
+    font-weight:200;
+    padding-bottom:.5em;
+    border-bottom:1px solid rgba(0,0,0,.1);
+    margin-bottom:1.5em;
+  }
+  h2 {
+    margin-top:3em;
+  }
+  #submit-button {
+    margin-top:30px;
+    padding-bottom:30px;
+    margin-bottom:30px;
+    border-bottom:1px solid rgba(0,0,0,.1);
+  }
+  padding-bottom:100px;
+}
+
+#login {
+  margin-top:-20px;
+  h2 {
+    color:#fff;
+    text-transform: uppercase;
+    font-weight:200;
+    border-bottom:none;
+    margin-bottom:.5em;
+  }
+  p {
+    color:#fff;
+    margin-bottom:1.5em;
+    font-weight:100;
+    font-size:2rem;
+  }
+  height:100vh;
+  background-image:url(bg-login.jpg);
+  background-size:cover;
+}
